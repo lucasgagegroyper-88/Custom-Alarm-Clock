@@ -1,0 +1,6 @@
+# PySide6 split distributions: Qt Widgets, QMovie, SVG and Multimedia.
+# Unused WebEngine and PDF distributions are intentionally not required.
+PySide6_Essentials==6.12.0
+PySide6_Addons==6.12.0
+tzlocal==5.4.5
+tzdata==2026.6
